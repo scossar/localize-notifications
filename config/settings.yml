@@ -1,0 +1,4 @@
+plugins:
+  localize_email_notifications_enabled:
+    default: true
+    client: true
